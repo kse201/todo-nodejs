@@ -28,6 +28,7 @@
   "homepage": "https://github.com/kse201/todo-nodejs#readme",
   "dependencies": {
     "cli-table": "^0.3.1",
+    "inquirer": "^3.2.3",
     "minimist": "^1.2.0",
     "sequelize": "^4.8.0",
     "sqlite3": "^3.1.9"
